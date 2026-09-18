@@ -62,4 +62,4 @@ Honestly it's a bit rough in places xD but it works, so hey :>
 
 ## License
 
-MIT for my code and art, see [LICENSE](LICENSE). Third-party stuff keeps its own license (listed in there too).
+MIT for my code and art, see [LICENSE](LICENSE). Third-party stuff keeps its own license, see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
