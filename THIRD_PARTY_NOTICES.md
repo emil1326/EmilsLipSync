@@ -1,6 +1,6 @@
 # Third-party notices
 
-This license covers Emil's own code and art in this repository. Third-party
+The MIT license in LICENSE covers Emil's own code and art in this repository. Third-party
 parts keep their own licenses:
 
 - Assets/Plugins/SimpleFileBrowser: Simple File Browser by yasirkula, MIT
